@@ -35,7 +35,7 @@ dibagi train 70% / valid 20% / test 10% dan diekspor dalam format YOLOv8.
 ## Menjalankan di Komputer Sendiri
 
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
+git clone https://github.com/fazaalfarabi2207-droid/Streamlit-Anjing-Kucing.git
 cd NAMA-REPO
 python -m venv .venv
 .venv\Scripts\activate          # Windows
